@@ -55,8 +55,8 @@ class BackTestingStrat():
         std2= df["Strat_2"].std()*np.sqrt(252)
 
         ### Print Ret/Std ###
-        print('Returns Strat 1: ', ret)
-        print('Returns Strat 2: ', ret2)
+        print('# what 1$ will be with Strat 1: ', ret)
+        print('# what 1$ will be  Strat 2: ', ret2)
         print('Std Strat 1: ', std)
         print('Std Strat 2: ', std2)
 
