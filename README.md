@@ -1,2 +1,4 @@
-# Algorithmic-Trading in Python OOP
-Market Data, Backtesting Strategies using Technical indicators, Portfolio Construction/Optimization
+# Algorithmic-Trading in Python OOP:
+
+1) Market Data, Backtesting Strategies using Technical indicators
+2) Portfolio Construction/Optimization
