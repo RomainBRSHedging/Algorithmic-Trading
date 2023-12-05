@@ -1,4 +1,4 @@
-# Algorithmic-Trading in Python OOP: short, simple 
+# Algorithmic-Trading in Python OOP: Short & Simple
 
 1) Market Data, Backtesting Strategies using Technical indicators
 2) Portfolio Construction/Optimization Markovic
